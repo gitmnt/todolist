@@ -1,3 +1,3 @@
 # todolist
 polymerlab dev role 4
-daily folder daily check
+daily folder daily check, bookmarks
